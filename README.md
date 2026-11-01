@@ -4,6 +4,10 @@
 
 Dieses Repository dokumentiert ausschließlich NG-Browser: Produktstand, Einstieg, Änderungsverlauf und offene Nachweise. Es enthält derzeit **keinen veröffentlichten Quellcode und keinen Installer**.
 
+## Download für Windows
+
+**[NG-Browser im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9NQZ4GP7K4TX)**
+
 ## Stand · 01.11.2026
 
 - Die Veröffentlichung im **Microsoft Store** wurde vom Projektinhaber bestätigt.
